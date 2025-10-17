@@ -13,7 +13,7 @@ capturar su tráfico con `tcpdump` y analizarlo con Wireshark.
 ## Contenido del proyecto
 
 taller2/
-| - 
+| - Guazhima_Sebastian_Taller2_WSN.pdf → informe del taller2 de Redes de sensores realizado
  
 |- Dockerfile
 
@@ -42,3 +42,4 @@ Autor
 Sebastián Guazhima
 
 Universidad de Cuenca – Ingeniería en Telecomunicaciones
+
