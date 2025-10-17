@@ -13,10 +13,15 @@ capturar su tráfico con `tcpdump` y analizarlo con Wireshark.
 ## Contenido del proyecto
 
 taller2/
-├─ Dockerfile
-├─ nodes/ → Nodos en Python (.py)
-├─ data/ → Imágenes generadas (.png)
-└─ pcap/ → Capturas de tráfico (.pcap)
+| - 
+ 
+|- Dockerfile
+
+|- nodes/ → Nodos en Python (.py)
+
+|- data/ → Imágenes generadas (.png)
+
+|- pcap/ → Capturas de tráfico (.pcap)
 
 
 
@@ -35,4 +40,5 @@ https://hub.docker.com/repository/docker/sebast15g/ros2_taller2_reto/general
 Autor
 
 Sebastián Guazhima
+
 Universidad de Cuenca – Ingeniería en Telecomunicaciones
